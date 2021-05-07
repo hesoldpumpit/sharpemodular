@@ -1,0 +1,6 @@
+#### Requirements needed by modularsharpe.py ### 
+yfinance
+plotly
+pandas
+numpy
+sys
